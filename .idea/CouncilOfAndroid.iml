@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <content url="file://$MODULE_DIR$/../playground">
+      <sourceFolder url="file://$MODULE_DIR$/../playground/androidApp/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../playground/shared/build/generated/compose/resourceGenerator/kotlin/commonMainResourceCollectors" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../playground/shared/src/main/kotlin" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

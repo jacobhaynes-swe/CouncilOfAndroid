@@ -21,4 +21,4 @@ The **Council of Android** is an orchestration layer for modern Android developm
 
 - **[SampleUserApp](https://github.com/jacobhaynes-swe/SampleUserApp)**: A reference implementation of the Tube/Socket/Grid architecture for an Order Management System.
 
-For detailed system prompts, see [agents.md](agents.md).
+For detailed system prompts, see [AGENTS.md](AGENTS.md).
