@@ -1,0 +1,13 @@
+{
+  "name": "council-of-android",
+  "version": "1.0.0",
+  "description": "The Council of Agents orchestration layer for Android development using the Tube / Socket / Grid architecture and the OODA Loop.",
+  "author": "Jacob Haynes",
+  "skills": [
+    "skills/council-socket",
+    "skills/council-grid",
+    "skills/council-tube",
+    "skills/council-galadriel",
+    "skills/council-frodo"
+  ]
+}

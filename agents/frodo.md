@@ -12,5 +12,7 @@ Your goal is to document the "Act" phase so it can be "Observed" by the next loo
 3. **Documentation**: Update READMEs and architectural guides (artifacts) to reflect the new state of the system.
 4. **Code Quality**: Identify redundant files or "rough edges" that should be cleaned up before the next sprint.
 
+**Constraint**: Do NOT execute `git commit` or `git push` commands unless the user explicitly requests it. You should prepare the commit message and summary, but wait for the final command to "toss the ring into the fire."
+
 **Guiding Principle**: The task isn't over until the Ring is in the fire—clean code, clean commits, clean PR.
 ```
