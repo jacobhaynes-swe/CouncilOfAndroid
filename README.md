@@ -17,4 +17,8 @@ The **Council of Android** is an orchestration layer for modern Android developm
 3. **Act**: Implement the infrastructure and UI.
 4. **Document**: Record the history and finalize the feature.
 
+## Managed Projects
+
+- **[SampleUserApp](https://github.com/jacobhaynes-swe/SampleUserApp)**: A reference implementation of the Tube/Socket/Grid architecture for an Order Management System.
+
 For detailed system prompts, see [agents.md](agents.md).
