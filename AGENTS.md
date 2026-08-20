@@ -6,7 +6,7 @@ This document defines the specialized system prompts for the Fellowship of Agent
 @./agents/socket.md
 @./agents/grid.md
 @./agents/tube.md
-@./agents/samwise.md
+@./agents/galadriel.md
 @./agents/frodo.md
 @./agents/protocol.md
 
