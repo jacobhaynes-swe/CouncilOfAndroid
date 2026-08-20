@@ -3,10 +3,10 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$" />
-    <content url="file://$MODULE_DIR$/../playground">
-      <sourceFolder url="file://$MODULE_DIR$/../playground/androidApp/src/main/kotlin" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../playground/shared/build/generated/compose/resourceGenerator/kotlin/commonMainResourceCollectors" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/../playground/shared/src/main/kotlin" isTestSource="false" />
+    <content url="file://$MODULE_DIR$/../SampleUserApp">
+      <sourceFolder url="file://$MODULE_DIR$/../SampleUserApp/androidApp/src/main/kotlin" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../SampleUserApp/shared/build/generated/compose/resourceGenerator/kotlin/commonMainResourceCollectors" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/../SampleUserApp/shared/src/main/kotlin" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
